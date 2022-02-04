@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomResolver", "CustomResolver\CustomResolver.csproj", "{DD64725C-0EC8-4A38-BFAC-C756102F4B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorParams", "ConstructorParams\ConstructorParams.csproj", "{7D9525E9-BB19-49CB-A201-7C7DB20B045A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\Attributes.csproj", "{77C15381-D7D0-4C6A-B4A7-F8EA22D7D91F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD64725C-0EC8-4A38-BFAC-C756102F4B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD64725C-0EC8-4A38-BFAC-C756102F4B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD64725C-0EC8-4A38-BFAC-C756102F4B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD64725C-0EC8-4A38-BFAC-C756102F4B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9525E9-BB19-49CB-A201-7C7DB20B045A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9525E9-BB19-49CB-A201-7C7DB20B045A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9525E9-BB19-49CB-A201-7C7DB20B045A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9525E9-BB19-49CB-A201-7C7DB20B045A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C15381-D7D0-4C6A-B4A7-F8EA22D7D91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C15381-D7D0-4C6A-B4A7-F8EA22D7D91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C15381-D7D0-4C6A-B4A7-F8EA22D7D91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C15381-D7D0-4C6A-B4A7-F8EA22D7D91F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
